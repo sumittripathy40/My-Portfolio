@@ -1,5 +1,9 @@
 # Sumit Tripathy — Portfolio
 
+> **Live Portfolio:** [https://sumittripathy.netlify.app](https://sumittripathy.netlify.app)
+
+Explore my portfolio to see my projects, technical skills, professional experience, and contact details.
+
 A responsive React portfolio built with Vite. Profile, project, and experience content is stored locally in `src/data`, so the site ships as static files and does not need Spring Boot or a database.
 
 ## Repository structure
